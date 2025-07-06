@@ -40,6 +40,7 @@ operations = {
 #operations["*"]= mul(4,8)
 #print(operations["*"])
 
+#Lauretta Calculator Function
 def calculator():
     print(art)
     should_continue = True
